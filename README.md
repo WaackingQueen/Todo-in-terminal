@@ -6,15 +6,14 @@ of choice for an easier and quicker adding of TODO tasks.
 
 Usage:
 
-adding a task
-
+adding a task:
 $ ./todo.py a XXX 
 
-removing a task
+removing a task:
 $ ./todo.py r XXX
 
-remove all task
+remove all tasks:
 $ ./todo.py ra
 
-list of tasks
+list of all tasks:
 $ ./todo.py l
