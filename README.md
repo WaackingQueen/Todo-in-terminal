@@ -7,6 +7,7 @@ of choice for an easier and quicker adding of TODO tasks.
 Usage:
 
 adding a task
+
 $ ./todo.py a XXX 
 
 removing a task
