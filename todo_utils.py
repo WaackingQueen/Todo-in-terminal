@@ -34,6 +34,12 @@ def get_todos():
 
     return todos
 
+def show_all():
+    i = 0
+    for todo in get_todos() :
+        print (f"{i}. {todo[0]}")
+        i = i+1      
+
 
 def delete_todo(todo):
     todo.delete()
